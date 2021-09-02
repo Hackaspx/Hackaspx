@@ -1,4 +1,0 @@
-# 0x04-Aspx常规Web漏洞
-
-0x04-Aspx常规Web漏洞
-
