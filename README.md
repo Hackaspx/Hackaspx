@@ -1,23 +1,21 @@
-# 《深入理解Aspx代码审计》
+# 《ASPX安全-只有ASPX安全才能拯救.NET》
 
-本项目是记录自己在Aspx代码审计过程中遇到的内容，包括Aspx代码审计技巧以及自己真实审计的案例。一个不会Aspx代码审计的师傅不是一个好黑客！一个不会Aspx代码审计的黑客不是一个好师傅！
+本项目是记录自己在学习研究Aspx安全过程中遇到的优秀内容，包括.NET代码审计资源以及.NET开发的应用程序组件协议等的安全内容。一个不会.NET攻击的黑客不是一个好师傅，一个不懂Aspx安全的师傅不是一个好黑客！深入理解.NET安全，手握众多重点Aspx应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年9月2日，最近的一次更新时间为2021年9月2日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年9月2日，最近的一次更新时间为2022年3月5日。本项目会持续更新，直到海枯石烂。
 
-- [0x01-Aspx代码审计资源](https://github.com/0e0w/HackAspx#0x01-Aspx%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E8%B5%84%E6%BA%90)
-- [0x02-Aspx漏洞靶场审计](https://github.com/0e0w/HackAspx#0x02-Aspx%E6%BC%8F%E6%B4%9E%E9%9D%B6%E5%9C%BA%E5%B9%B3%E5%8F%B0)
-- [0x03-Aspx代码审计工具](https://github.com/0e0w/HackAspx#0x03-Aspx%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7)
-- [0x04-Aspx代码审计案例](https://github.com/0e0w/HackAspx#0x04-Aspx%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E6%A1%88%E4%BE%8B)
-- [0x05-Aspx安全Web漏洞](https://github.com/0e0w/HackAspx#0x05-Aspx%E5%AE%89%E5%85%A8web%E6%BC%8F%E6%B4%9E)
-- [0x06-Aspx安全编码规范](https://github.com/0e0w/HackAspx#0x06-Aspx%E5%AE%89%E5%85%A8%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83)
-- [0x07-Aspx代码审计培训](https://github.com/0e0w/HackAspx#0x07-Aspx%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%9F%B9%E8%AE%AD)
-- [0x08-Aspx代码审计参考](https://github.com/0e0w/HackAspx#0x08-Aspx%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%8F%82%E8%80%83)
+- [01-Aspx安全研究资源]()
+- [02-Aspx安全研究工具]()
+- [03-Aspx安全漏洞环境]()
+- [04-Aspx安全漏洞分类]()
+- [05-Aspx安全代码审计]()
+- [06-Aspx安全漏洞修复]()
+- [07-Aspx安全高危应用]()
+- [08-Aspx安全参考资源]()
 
-## 0x01-Aspx代码审计资源
+## 01-Aspx安全研究资源
 
-## 0x02-Aspx漏洞靶场平台
-
-## 0x03-Aspx代码审计工具
+## 02-Aspx安全研究工具
 
 一、反编译工具
 - dnSpy https://github.com/dnSpy/dnSpy
@@ -26,11 +24,9 @@
 https://www.cnblogs.com/ldc218/p/8945892.html
 https://blog.csdn.net/xiaoyong_net/article/details/80402343
 
-## 0x04-Aspx代码审计案例
+## 03-Aspx安全漏洞环境
 
-- https://github.com/topics/static-analysis?l=Aspx
-
-## 0x05-Aspx安全Web漏洞
+## 04-Aspx安全漏洞分类
 
 本部分详细列举常见的Aspx安全漏洞内容。
 
@@ -49,8 +45,10 @@ https://blog.csdn.net/xiaoyong_net/article/details/80402343
 - CSRF跨站请求伪造
 - SSRF服务端请求伪造
 
-## 0x06-Aspx安全编码规范
+## 05-Aspx安全代码审计
 
-## 0x07-Aspx代码审计培训
+## 06-Aspx安全漏洞修复
 
-## 0x08-Aspx代码审计参考
+## 07-Aspx安全高危应用
+
+## 08-Aspx安全参考资源
