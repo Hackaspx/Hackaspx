@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习研究Aspx安全过程中遇到的优秀内容，包括.NET代码审计资源以及.NET开发的应用程序组件协议等的安全内容。一个不会.NET攻击的黑客不是一个好师傅，一个不懂Aspx安全的师傅不是一个好黑客！深入理解.NET安全，手握众多重点Aspx应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年9月2日，最近的一次更新时间为2022年3月5日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年9月2日，最近的一次更新时间为2022年3月6日。本项目会持续更新，直到海枯石烂。
 
 - [01-Aspx安全研究资源](https://github.com/Hackaspx/Hackaspx#01-aspx%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Aspx安全研究工具](https://github.com/Hackaspx/Hackaspx#02-aspx%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -20,8 +20,9 @@
 一、反编译工具
 - dnSpy https://github.com/dnSpy/dnSpy
 - ILSpy https://github.com/icsharpcode/ILSpy
-- dotPeek http://www.jetbrains.com/decompiler/
-https://www.cnblogs.com/ldc218/p/8945892.html
+- dotPeek http://www.jetbrains.com/decompiler
+- https://github.com/icsharpcode/AvaloniaILSpy
+- https://www.cnblogs.com/ldc218/p/8945892.html
 https://blog.csdn.net/xiaoyong_net/article/details/80402343
 
 ## 03-Aspx安全漏洞环境
