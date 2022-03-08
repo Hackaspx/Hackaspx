@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习研究Aspx安全过程中遇到的优秀内容，包括.NET代码审计资源以及.NET开发的应用程序组件协议等的安全内容。一个不会.NET攻击的黑客不是一个好师傅，一个不懂Aspx安全的师傅不是一个好黑客！深入理解.NET安全，手握众多重点Aspx应用高危0day！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年9月2日，最近的一次更新时间为2022年3月7日。本项目会持续更新，直到海枯石烂。
+本项目创建于2021年9月2日，最近的一次更新时间为2022年3月8日。本项目会持续更新，直到海枯石烂。
 
 - [01-Aspx安全研究资源](https://github.com/Hackaspx/Hackaspx#01-aspx%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%B5%84%E6%BA%90)
 - [02-Aspx安全研究工具](https://github.com/Hackaspx/Hackaspx#02-aspx%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7)
@@ -14,6 +14,23 @@
 - [08-Aspx安全参考资源](https://github.com/Hackaspx/Hackaspx#08-aspx%E5%AE%89%E5%85%A8%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90)
 
 ## 01-Aspx安全研究资源
+
+一、书籍资料
+- [ ] [《Web安全设计之道：.NET代码安全、界面漏洞防范与程序优化》](https://item.jd.com/10044187232752.html)
+
+二、基础教程
+
+三、视频教程
+- https://www.bilibili.com/video/BV1WV411e7c5
+
+四、培训演讲
+
+五、专利文献
+
+六、审计报告
+
+七、其他资源
+- https://xz.aliyun.com/t/6646
 
 ## 02-Aspx安全研究工具
 
